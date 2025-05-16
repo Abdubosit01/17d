@@ -1,0 +1,248 @@
+
+body{
+    background-color: black;
+}
+
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.d{
+background-color: #FFC611;
+width: 604px;
+height: 103px;
+border-radius: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 500px;
+margin-top: 250px;
+border: 10px solid #5A5555;
+
+}
+
+
+.man div{
+    border: 2px solid black ;
+    width: 361px;
+    height: 420px;
+    text-align: center;
+background-color: #1F1F1F;
+
+}
+
+
+.man{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.a{
+    background-image: url(./image\ 1\ \(2\).png);
+}
+
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+button{
+width: 243px;
+height: 50px;
+border-radius: 30px;
+display: flex;
+align-items: center;justify-content: center;
+gap: 30px;
+background-color: #009FF5B5;
+color: white;
+}
+
+.o{
+    box-shadow: 10px 10px 10px rgb(252, 252, 252);
+}
+
+h2{
+    text-shadow: 2px 2px 2px yellow;
+}
+
+h1{
+    text-align: center;
+    color: #5A5555;
+    font-size: 60px;
+    text-shadow: 2px 2px 2px white;
+}
+
+
+.l div{
+    color: white;
+}
+
+
+.v{
+    width: 663px; 
+    height: 140px;
+}
+
+
+
+.l{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.ha{
+    margin-top: 180px;
+   background-color: rgb(17, 0, 255) ;
+   border-radius: 1px;
+   box-shadow: -3px 3px 5px white ;
+   font-size: 27px;
+}
+
+
+
+.da div{
+    color: white;
+}
+
+.sa{
+    width: 663px;
+    height: 140px;
+}
+
+.da{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+
+
+
+.w{
+    background-color: #FFC200;
+    border-radius: 1px;
+    color: black;
+    font-size: 27px;
+    margin-top: 180px;
+   box-shadow: -1px 5px 5px white;
+}
+
+
+footer{
+    background-color: #FFC611;
+    display: flex;
+    height: 158px;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+
+
+.d{
+    color: black;
+    font-size: 36px;
+    text-shadow: 2px 2px 2px blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Pseudo class */
+
+.ha:hover{
+    background-color: #535353;
+}
+
+
+
+
+
+
+
+
